@@ -10,4 +10,5 @@ Tool- works on any of the following operating systems:<br>
 
 # Install Command
 # ./setup.sh
+# OR
 # bash darkboss1-all-hacking-tools.sh
